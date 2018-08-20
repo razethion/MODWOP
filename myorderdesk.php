@@ -238,10 +238,3 @@ iFrameResize({scrolling:false, checkOrigin: false,}, '#mainFrame');
 <?php }
 //shortcode
 add_shortcode( 'mod-catalog', 'mod_catalog_frame' );
-
-//      NEXT STEPS      // 
-
-//https://support.myorderdesk.com/hc/en-us/articles/221908948-Embedding-a-MyOrderDesk-web-to-print-website-into-your-Wordpress-website-MKB-0090
-//Build a system that allows the user to input their own custom order form or catalog ID based on link above
-
-//After that is done, lets fire this system into deboss or something, and get it tested and working
