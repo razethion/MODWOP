@@ -3,11 +3,9 @@
 Plugin Name:  MyOrderDesk
 Plugin URI:   https://pagepath.com/wordpress-plugin/
 Description:  A WordPress plugin that displays a user's MyOrderDesk webpage seamlessly.
-Version:      beta_2.0
+Version:      beta_2.0 (Development release 1)
 Author:       Riley Magnuson
 Author URI:   https://github.com/razethion/
-License:      GPL2
-License URI:  https://www.gnu.org/licenses/gpl-2.0.html
 */
 
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' ); /* Disallows direct file access. */
